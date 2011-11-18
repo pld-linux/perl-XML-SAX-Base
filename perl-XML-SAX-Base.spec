@@ -57,6 +57,7 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc Changes README
+%dir %{perl_vendorlib}/XML/SAX
 %{perl_vendorlib}/XML/SAX/Base.pm
 %{perl_vendorlib}/XML/SAX/Exception.pm
 %{perl_vendorlib}/XML/SAX/BuildSAXBase.pl
