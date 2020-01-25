@@ -4,7 +4,6 @@
 #
 %define		pdir	XML
 %define		pnam	SAX-Base
-%include	/usr/lib/rpm/macros.perl
 Summary:	XML::SAX::Base - Base class SAX Drivers and Filters
 Summary(pl.UTF-8):	XML::SAX::Base - klasa bazowa dla sterowników i filtrów SAX
 Name:		perl-XML-SAX-Base
