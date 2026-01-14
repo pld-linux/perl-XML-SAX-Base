@@ -8,7 +8,7 @@ Summary:	XML::SAX::Base - Base class SAX Drivers and Filters
 Summary(pl.UTF-8):	XML::SAX::Base - klasa bazowa dla sterowników i filtrów SAX
 Name:		perl-XML-SAX-Base
 Version:	1.09
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
